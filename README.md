@@ -1,0 +1,1 @@
+this is an old multiplayer 2d arena game i made in like 2010 or something. it's probably very badly made so like, don't go looking around in this repo. i don't even know how to run it anymore. the original vcs is long gone so i'm checking it into github before it's lost to time
